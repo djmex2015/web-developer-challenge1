@@ -1,0 +1,9 @@
+.panel {
+  background-color: #343434;
+  display: flex !important;
+  flex: 1 !important;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column !important;
+}
